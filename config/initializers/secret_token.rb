@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-RailsinstallerDemo::Application.config.secret_token = '74d3ebb60d27ed376861a1981625c9151c7e6fc86fd991a3c18ee276ca2f0db00622051a80a8a8bea02e75b294c2a1fab793fff7372875c7cbd8c4122d287cd1'
+RailsinstallerDemo::Application.config.secret_token = 'cc9302748a9b0b593b9a8bdefc7e1771ffb625f292a956690973006534d7b1b9f44b4e53ec59361c1b26f0bd88ff06b0bd14c15b59ba58bfe080bd1b6a1b9eda'
